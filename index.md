@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-![dog](/assets/dog.jpg){:height="1000px" width="500px"}
+![dog](/assets/dog.jpg){:height="200px" width="100px"}
 
 ```markdown
 Syntax highlighted code block

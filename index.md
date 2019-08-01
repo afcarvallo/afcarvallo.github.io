@@ -1,36 +1,15 @@
-## welcome to my github page
+## Andres Carvallo
 
-You can use the [editor on GitHub](https://github.com/afcarvallo/afcarvallo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+PhD student in Computer Science at Pontificia Universidad Católica de Chile. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![foto](/assets/foto.png){:height="200px" width="100px"}
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publications
+- Comparing Word Embeddings for Active Learning-based Document Screening. Andrés Carvallo & Denis Parra. SIGIR 2019 BIRNDL Wordkshop.
 
-![dog](/assets/dog.jpg){:height="200px" width="100px"}
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/afcarvallo/afcarvallo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Tutorials 
+- Analyzing the Design Space for Visualizing Neural Attention in Text Classification. Hernan Valdivieso, Denis Parra, Andres Carvallo, Gabriel Rada, PUC, Chile 
+Katrien Verbert, KU Leuven, Belgium 
+Tobias Schreck, TU Graz, Austria. VisXAI 2019.
 

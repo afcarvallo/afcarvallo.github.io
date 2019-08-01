@@ -12,8 +12,8 @@ PhD Candidate, Department of Computer Science, Pontificia Universidad Católica
 - Social Computing and Visualization Lab. [SocVis][2] 
 
 ### Funded Projects 
-- Researcher in Millenium Institute on “Fundamentals of Data”. [IMFD][3]
-- Associate Researcher in Fondecyt Project “Harnessing Information Visualization and Interactivity to Develop Interfaces for Explainable AI”. 
+- Researcher in Millenium Institute on *Fundamentals of Data*. [IMFD][3]
+- Associate Researcher in Fondecyt Project *Harnessing Information Visualization and Interactivity to Develop Interfaces for Explainable AI*. 
 
 ### Research interests 
 Recommender Systems, Applications of Data Mining & Machine Learning, Information Visualization, Information Retrieval, Deep Learning, Natural Language Processing.

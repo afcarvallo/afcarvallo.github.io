@@ -5,7 +5,7 @@ PhD Candidate, Department of Computer Science, Pontificia Universidad Católica
 ![foto](/assets/foto.png){:height="200px" width="200px"}
 
 **E-mail:** afcarvallo@uc.cl  
-**Github:** github.com/afcarvallo
+**Github:** [github.com/afcarvallo][4]
 
 ### Research Groups 
 - Artificial Intelligence Laboratory. [IALab][1] 
@@ -30,6 +30,7 @@ Katrien Verbert, KU Leuven, Belgium
 [1]: http://ialab.ing.puc.cl/
 [2]: http://socvis.ing.puc.cl
 [3]: https://imfd.cl/
+[4]: github.com/afcarvallo
 
  
 

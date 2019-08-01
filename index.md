@@ -9,7 +9,7 @@ PhD student in Computer Science at Pontificia Universidad Católica de Chile.
 - Comparing Word Embeddings for Active Learning-based Document Screening. Andrés Carvallo & Denis Parra. SIGIR 2019 BIRNDL Wordkshop.
 
 ### Tutorials 
-- [Analyzing the Design Space for Visualizing Neural Attention in Text Classification][so] Hernan Valdivieso, Denis Parra, Andres Carvallo, Gabriel Rada, PUC, Chile 
+- [Analyzing the Design Space for Visualizing Neural Attention in Text Classification][so]. Hernán Valdivieso, Denis Parra, Andrés Carvallo, Gabriel Rada, PUC, Chile 
 Katrien Verbert, KU Leuven, Belgium 
 Tobias Schreck, TU Graz, Austria. VisXAI 2019.
 

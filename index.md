@@ -19,7 +19,7 @@ PhD Candidate, Department of Computer Science, Pontificia Universidad Católica
 Recommender Systems, Applications of Data Mining & Machine Learning, Information Visualization, Information Retrieval, Deep Learning, Natural Language Processing.
 
 ### Publications
-- Comparing Word Embeddings for Active Learning-based Document Screening. Andrés Carvallo & Denis Parra. SIGIR 2019 BIRNDL Wordkshop.
+- [Comparing Word Embeddings for Active Learning-based Document Screening][5]. Andrés Carvallo & Denis Parra. SIGIR 2019 BIRNDL Wordkshop.
 
 ### Tutorials 
 - [Analyzing the Design Space for Visualizing Neural Attention in Text Classification][so]. Hernán Valdivieso, Denis Parra, Andrés Carvallo & Gabriel Rada, PUC, Chile.  
@@ -31,6 +31,7 @@ Katrien Verbert, KU Leuven, Belgium
 [2]: http://socvis.ing.puc.cl
 [3]: https://imfd.cl/
 [4]: github.com/afcarvallo
+[5]: http://ceur-ws.org/Vol-2414/paper10.pdf
 
  
 

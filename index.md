@@ -1,8 +1,11 @@
 ## Andres Carvallo
 
-PhD student in Computer Science at Pontificia Universidad Católica de Chile. 
+PhD Candidate, Department of Computer Science, Pontificia Universidad Católica de Chile.
 
 ![foto](/assets/foto.png){:height="200px" width="200px"}
+
+**E-mail:** afcarvallo@uc.cl  
+**Github:** github.com/afcarvallo
 
 ### Research Groups 
 - Artificial Intelligence Laboratory. [IALab][1] 

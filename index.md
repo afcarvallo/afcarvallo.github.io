@@ -4,6 +4,16 @@ PhD student in Computer Science at Pontificia Universidad Católica de Chile.
 
 ![foto](/assets/foto.png){:height="200px" width="200px"}
 
+### Research Groups 
+- Artificial Intelligence Laboratory. [IALab][1] 
+- Social Computing and Visualization Lab. [SocVis][2] 
+
+### Funded Projects 
+- Researcher in Millenium Institute on “Fundamentals of Data”. [IMFD][3]
+- Associate Researcher in Fondecyt Project “Harnessing Information Visualization and Interactivity to Develop Interfaces for Explainable AI”. 
+
+### Research interests 
+Recommender Systems, Applications of Data Mining & Machine Learning, Information Visualization, Information Retrieval, Deep Learning, Natural Language Processing.
 
 ### Publications
 - Comparing Word Embeddings for Active Learning-based Document Screening. Andrés Carvallo & Denis Parra. SIGIR 2019 BIRNDL Wordkshop.
@@ -14,6 +24,9 @@ Katrien Verbert, KU Leuven, Belgium
 & Tobias Schreck, TU Graz, Austria. VisXAI 2019.
 
 [so]: https://observablehq.com/@clpuc/analyzing-the-design-space-for-visualizing-neural-attenti
+[1]: http://ialab.ing.puc.cl/
+[2]: http://socvis.ing.puc.cl
+[3]: https://imfd.cl/
 
  
 

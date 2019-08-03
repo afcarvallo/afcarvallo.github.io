@@ -1,5 +1,3 @@
-PhD Candidate, Department of Computer Science, Pontificia Universidad Católica de Chile.
-
 ![foto](/assets/foto.png){:height="200px" width="200px"}
 
 **E-mail:** afcarvallo@uc.cl  

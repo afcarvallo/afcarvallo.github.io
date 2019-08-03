@@ -26,6 +26,10 @@ Recommender Systems, Applications of Data Mining & Machine Learning, Information
 Katrien Verbert, KU Leuven, Belgium 
 & Tobias Schreck, TU Graz, Austria. VisXAI 2019.
 
+### Teaching Assistant
+- Deep Learning. Pontificia Universidad Católica de Chile. Profesor: Álvaro Soto. 
+
+
 [so]: https://observablehq.com/@clpuc/analyzing-the-design-space-for-visualizing-neural-attenti
 [1]: http://ialab.ing.puc.cl/
 [2]: http://socvis.ing.puc.cl

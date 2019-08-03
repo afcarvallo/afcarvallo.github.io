@@ -23,7 +23,8 @@ Katrien Verbert, KU Leuven, Belgium
 & Tobias Schreck, TU Graz, Austria. VisXAI 2019.
 
 ### Teaching Assistant
-- Deep Learning. Pontificia Universidad Católica de Chile. Profesor: Álvaro Soto. 
+- Deep Learning. Pontificia Universidad Católica de Chile. Professor: [Álvaro Soto][6]. 
+- Recommender Systems. Pontificia Universidad Católica de Chile. Professor: [Denis Parra][7].
 
 
 [so]: https://observablehq.com/@clpuc/analyzing-the-design-space-for-visualizing-neural-attenti
@@ -32,6 +33,7 @@ Katrien Verbert, KU Leuven, Belgium
 [3]: https://imfd.cl/
 [4]: github.com/afcarvallo
 [5]: http://ceur-ws.org/Vol-2414/paper10.pdf
-
+[6]: http://asoto.ing.puc.cl/
+[7]: http://dparra.sitios.ing.uc.cl/
  
 

@@ -11,7 +11,7 @@ PhD Candidate, Department of Computer Science, Pontificia Universidad Católica
 - Artificial Intelligence Laboratory. [IALab][1] 
 - Social Computing and Visualization Lab. [SocVis][2] 
 
-### Funded Projects 
+### Projects 
 - Researcher in Millenium Institute on *Fundamentals of Data*. [IMFD][3]
 - Associate Researcher in Fondecyt Project *Harnessing Information Visualization and Interactivity to Develop Interfaces for Explainable AI*. 
 

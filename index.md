@@ -12,15 +12,15 @@
 - Associate Researcher in Fondecyt Project *Harnessing Information Visualization and Interactivity to Develop Interfaces for Explainable AI*. 
 
 ### Research interests 
-Recommender Systems, Applications of Data Mining & Machine Learning, Information Visualization, Information Retrieval, Deep Learning, Natural Language Processing.
+Recommender Systems, Applications of Data Mining & Machine Learning, Information Visualization, Information Retrieval, Natural Language Processing.
 
 ### Publications
 - [Comparing Word Embeddings for Active Learning-based Document Screening][5]. Andrés Carvallo & Denis Parra. SIGIR 2019 BIRNDL Wordkshop.
 
 ### Tutorials 
-- [Analyzing the Design Space for Visualizing Neural Attention in Text Classification][so]. Hernán Valdivieso, Denis Parra, Andrés Carvallo & Gabriel Rada, PUC, Chile.  
-Katrien Verbert, KU Leuven, Belgium 
-& Tobias Schreck, TU Graz, Austria. VisXAI 2019.
+- [Analyzing the Design Space for Visualizing Neural Attention in Text Classification][so]. Hernán Valdivieso, [Denis Parra][7], Andrés Carvallo & [Gabriel Rada][8], PUC, Chile.  
+[Katrien Verbert][9], KU Leuven, Belgium 
+& [Tobias Schreck][10], TU Graz, Austria. VisXAI 2019.
 
 ### Teaching Assistant
 - Deep Learning. Pontificia Universidad Católica de Chile. Professor: [Álvaro Soto][6]. 
@@ -35,5 +35,7 @@ Katrien Verbert, KU Leuven, Belgium
 [5]: http://ceur-ws.org/Vol-2414/paper10.pdf
 [6]: http://asoto.ing.puc.cl/
 [7]: http://dparra.sitios.ing.uc.cl/
- 
+[8]: https://medicina.uc.cl/persona/dr-gabriel-rada/
+[9]: https://wms.cs.kuleuven.be/cs/onderzoek/augment/katrien-verbert
+[10]: https://www.tugraz.at/institute/cgv/schreck/
 

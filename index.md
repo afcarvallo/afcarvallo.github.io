@@ -15,12 +15,11 @@
 Recommender Systems, Applications of Data Mining & Machine Learning, Information Visualization, Information Retrieval, Natural Language Processing.
 
 ### Publications
-- [Comparing Word Embeddings for Active Learning-based Document Screening][5]. Andrés Carvallo & Denis Parra. SIGIR 2019 BIRNDL Wordkshop.
-
-### Tutorials 
+- [Comparing Word Embeddings for Active Learning-based Document Screening][5]. Andrés Carvallo & Denis Parra. SIGIR Paris 2019, BIRNDL Wordkshop.
 - [Analyzing the Design Space for Visualizing Neural Attention in Text Classification][so]. Hernán Valdivieso, [Denis Parra][7], Andrés Carvallo & [Gabriel Rada][8], PUC, Chile.  
 [Katrien Verbert][9], KU Leuven, Belgium 
-& [Tobias Schreck][10], TU Graz, Austria. VisXAI 2019.
+& [Tobias Schreck][10], TU Graz, Austria. IEEE Vis Vancouver 2019, VisXAI Workshop.
+
 
 ### Teaching Assistant
 - Deep Learning. Pontificia Universidad Católica de Chile. Professor: [Álvaro Soto][6]. 

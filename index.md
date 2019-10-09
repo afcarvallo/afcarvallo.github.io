@@ -1,7 +1,7 @@
 ![foto](/assets/foto.png){:height="200px" width="200px"}
 
 **E-mail:** afcarvallo@uc.cl  
-**Github User:** afcarvallo
+**Github User:** [afcarvallo][4]
 
 ### Research Groups 
 - Artificial Intelligence Laboratory. [IALab][1] 
@@ -16,7 +16,7 @@ Recommender Systems, Applications of Data Mining & Machine Learning, Information
 
 ### Publications
 - [Comparing Word Embeddings for Active Learning-based Document Screening][5]. Andrés Carvallo & Denis Parra. SIGIR Paris 2019, BIRNDL Wordkshop.
-- [Analyzing the Design Space for Visualizing Neural Attention in Text Classification][so]. Hernán Valdivieso, [Denis Parra][7], Andrés Carvallo & [Gabriel Rada][8], PUC, Chile.  
+- [Analyzing the Design Space for Visualizing Neural Attention in Text Classification][so]. [Hernán Valdivieso][11], [Denis Parra][7], Andrés Carvallo & [Gabriel Rada][8], PUC, Chile.  
 [Katrien Verbert][9], KU Leuven, Belgium 
 & [Tobias Schreck][10], TU Graz, Austria. IEEE Vis Vancouver 2019, VisXAI Workshop.
 
@@ -30,11 +30,12 @@ Recommender Systems, Applications of Data Mining & Machine Learning, Information
 [1]: http://ialab.ing.puc.cl/
 [2]: http://socvis.ing.puc.cl
 [3]: https://imfd.cl/
-[4]: github.com/afcarvallo
+[4]: https://github.com/afcarvallo
 [5]: http://ceur-ws.org/Vol-2414/paper10.pdf
 [6]: http://asoto.ing.puc.cl/
 [7]: http://dparra.sitios.ing.uc.cl/
 [8]: https://medicina.uc.cl/persona/dr-gabriel-rada/
 [9]: https://wms.cs.kuleuven.be/cs/onderzoek/augment/katrien-verbert
 [10]: https://www.tugraz.at/institute/cgv/schreck/
+[11]: https://hernan4444.github.io/
 

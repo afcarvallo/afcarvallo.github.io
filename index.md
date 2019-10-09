@@ -1,7 +1,7 @@
 ![foto](/assets/foto.png){:height="200px" width="200px"}
 
 **E-mail:** afcarvallo@uc.cl  
-**Github User:** [afcarvallo][4]
+**Github User:** afcarvallo
 
 ### Research Groups 
 - Artificial Intelligence Laboratory. [IALab][1] 

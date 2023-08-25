@@ -2,7 +2,7 @@
 
 **E-mail:** afcarvallo@uc.cl  
 **Github User:** [afcarvallo][4]
-- Postdoctoral Researcher in [CENIA].[3]
+- Postdoctoral Researcher in [CENIA][3]
 
 
 ### Research Groups 
@@ -29,7 +29,7 @@ Recommender Systems, Applications of Data Mining & Machine Learning, Information
 [so]: https://observablehq.com/@clpuc/analyzing-the-design-space-for-visualizing-neural-attenti
 [1]: http://ialab.ing.puc.cl/
 [2]: http://socvis.ing.puc.cl
-[3]: https://imfd.cl/
+[3]: https://cenia.cl/
 [4]: https://github.com/afcarvallo
 [5]: http://ceur-ws.org/Vol-2414/paper10.pdf
 [6]: http://asoto.ing.puc.cl/

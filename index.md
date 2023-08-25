@@ -2,14 +2,14 @@
 
 **E-mail:** afcarvallo@uc.cl  
 **Github User:** [afcarvallo][4]
+- Postdoctoral Researcher in [CENIA].[3]
+
 
 ### Research Groups 
 - Artificial Intelligence Laboratory. [IALab][1] 
 - Social Computing and Visualization Lab. [SocVis][2] 
 
-### Projects 
-- Researcher in Millenium Institute on *Fundamentals of Data*. [IMFD][3]
-- Associate Researcher in Fondecyt Project *Harnessing Information Visualization and Interactivity to Develop Interfaces for Explainable AI*. 
+
 
 ### Research interests 
 Recommender Systems, Applications of Data Mining & Machine Learning, Information Visualization, Information Retrieval, Natural Language Processing.
